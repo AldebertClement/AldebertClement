@@ -102,9 +102,8 @@ me to deepen my skills in virtualization and embedded architecture.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldebertClement&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AldebertClement&theme=tokyonight)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AldebertClement&theme=onedark)  
-![Snake animation](https://raw.githubusercontent.com/AldebertClement/AldebertClement/output/github-contribution-grid-snake.svg)  
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AldebertClement&theme=github_dark)  
-![Metrics](https://metrics.lecoq.io/?user=AldebertClement)  
+<!-- [Metrics](https://metrics.lecoq.io/?user=AldebertClement) -->
 
 ---
 
