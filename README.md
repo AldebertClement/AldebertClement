@@ -1,5 +1,5 @@
 <!-- Aldebert Clément -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Wellcome&fontSize=40&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome&fontSize=40&fontColor=fff)
 <h1 align="center">Hello my name is Aldebert Clément</h1>
 
 <p align="center">
