@@ -96,14 +96,29 @@ me to deepen my skills in virtualization and embedded architecture.
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <i>I don’t have many projects on GitHub yet, so take these stats with a pinch of salt!</i>
+</p>
 
-*I don’t have many projects on GitHub yet, so take these stats with a pinch of salt!*  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldebertClement&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldebertClement&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AldebertClement&theme=tokyonight)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=AldebertClement&theme=onedark)  
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AldebertClement&theme=github_dark)  
-<!-- [Metrics](https://metrics.lecoq.io/?user=AldebertClement) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AldebertClement&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldebertClement&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AldebertClement&theme=github_dark" alt="Summary Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AldebertClement&theme=onedark" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldebertClement&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
