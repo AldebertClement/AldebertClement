@@ -1,13 +1,9 @@
 <!-- Aldebert Clément -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Wellcome&fontSize=40&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome&fontSize=40&fontColor=fff)
 <h1 align="center">Hello my name is Aldebert Clément</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+turn+coffee+into+code;
-I+love/hate+Nixos;Languages:+Java,+Python,+C;+PL/QL,+Ada,+JavaScript,+OCaml;+Vue.js;
-Tools+%26+Technologies:+Docker,+Git;+UML,+Flask,+QEMU,+Coq+(Roq);+Typst,+Terraform,+VictoriaMetrics;+Prometheus,+Alertmanager,+Grafana;
-+Node.js,+Loki;
-Methodologies:+Team+work;+Agile+methods;+Adaptable+to+new+languages+%26+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+turn+coffee+into+code;I+love/hate+Nixos;Languages:+Java,+Python,+C;+PL/QL,+Ada,+JavaScript,+OCaml;+Vue.js;Tools+%26+Technologies:+Docker,+Git;+UML,+Flask,+QEMU,+Coq(Roq);+Typst,+Terraform,+VictoriaMetrics;+Prometheus,+Alermanager,+Grafana;+Node.js,+Loki;Methodologies:+Team+work;+Agile+methods;+Adaptable+to+new+languages+%26+tech"/>
 </p>
 
 ---
