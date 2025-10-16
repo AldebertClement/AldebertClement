@@ -100,9 +100,7 @@ me to deepen my skills in virtualization and embedded architecture.
   <img src="https://github-readme-stats.vercel.app/api?username=AldebertClement&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AldebertClement&theme=tokyonight" alt="Streak Stats" />
-</p>
+![streak](https://streak-stats.demolab.com/?user=AldebertClement&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AldebertClement&theme=github_dark" alt="Summary Cards" />
