@@ -101,7 +101,7 @@ me to deepen my skills in virtualization and embedded architecture.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldebertClement&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AldebertClement&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
